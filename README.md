@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Carimo 👋</h1>
 
-<!--
-**CarimoArmandoJorge/CarimoArmandoJorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Automation Engineering Student | DevOps & Cloud</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  AWS · Terraform · Docker · Kubernetes · Linux
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## <span style="color:#00A8E8">About Me</span>
+
+I'm an Automation Engineering student focused on
+**DevOps, Cloud Computing and Infrastructure as Code**.
+
+---
+
+## <span style="color:#00A8E8">Technologies</span>
+
+**Cloud:** AWS  
+**Infrastructure as Code:** Terraform  
+**Containers:** Docker  
+**Orchestration:** Kubernetes  
+**Systems:** Linux  
+**Programming:** Python, Bash  
+**Tools:** Git, GitHub
+
+---
+
+## <span style="color:#00A8E8">Featured Projects</span>
+
+### Terraform + AWS — ALB + EC2
+
+Infrastructure as Code project deploying a web application
+on AWS using Terraform, EC2, Application Load Balancer,
+VPC and Security Groups.
+
+### Flask + Docker
+
+Containerized Flask application using Python and Docker.
+
+### AWS + Nginx
+
+Linux web server deployed on AWS using EC2 and Nginx.
+
+---
+
+## <span style="color:#00A8E8">Currently Learning</span>
+
+AWS · Terraform · Kubernetes · Docker · CI/CD
+
+---
+
+ ## <span style="color:#00A8E8"> Connect</span>
+
+[LinkedIn](www.linkedin.com/in/carimo-armando-jorge-8295772b3)
