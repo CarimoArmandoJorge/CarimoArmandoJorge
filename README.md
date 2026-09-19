@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Carimo 👋</h1>
+<h1 align="center">Hi, I'm Carimo </h1>
 
 <p align="center">
   <strong>Automation Engineering Student | DevOps & Cloud</strong>
